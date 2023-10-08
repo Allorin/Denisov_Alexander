@@ -1,2 +1,5 @@
 How i can use it? What the problem? Hmmmm...
+<<<<<<< HEAD
 I dont know 12312312312312
+
+
